@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F08545E1A5CAFB000722A11 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 5F08545D1A5CAFB000722A11 /* README */; };
 		5FC10C311A5CAC11001808BA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FC10C301A5CAC11001808BA /* main.m */; };
 		5FC10C341A5CAC11001808BA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FC10C331A5CAC11001808BA /* AppDelegate.m */; };
 		5FC10C371A5CAC11001808BA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FC10C361A5CAC11001808BA /* ViewController.m */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5F08545D1A5CAFB000722A11 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		5FC10C2B1A5CAC11001808BA /* Assignment1 Multiplication Exercises.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Assignment1 Multiplication Exercises.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FC10C2F1A5CAC11001808BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5FC10C301A5CAC11001808BA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 		5FC10C221A5CAC11001808BA = {
 			isa = PBXGroup;
 			children = (
+				5F08545D1A5CAFB000722A11 /* README */,
 				5FC10C2D1A5CAC11001808BA /* Assignment1 Multiplication Exercises */,
 				5FC10C471A5CAC12001808BA /* Assignment1 Multiplication ExercisesTests */,
 				5FC10C2C1A5CAC11001808BA /* Products */,
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F08545E1A5CAFB000722A11 /* README in Resources */,
 				5FC10C3A1A5CAC11001808BA /* Main.storyboard in Resources */,
 				5FC10C3F1A5CAC11001808BA /* LaunchScreen.xib in Resources */,
 				5FC10C3C1A5CAC11001808BA /* Images.xcassets in Resources */,
@@ -412,6 +416,7 @@
 				5FC10C501A5CAC12001808BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FC10C511A5CAC12001808BA /* Build configuration list for PBXNativeTarget "Assignment1 Multiplication ExercisesTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +425,7 @@
 				5FC10C531A5CAC12001808BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
